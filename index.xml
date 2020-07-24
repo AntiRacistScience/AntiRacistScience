@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anti-Racist Science</title>
+    <link>https://AntiRacistScience.github.io/</link>
+      <atom:link href="https://AntiRacistScience.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anti-Racist Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Anti-Racist Science © 2020</copyright>
+    <image>
+      <url>https://AntiRacistScience.github.io/img/avatar.png</url>
+      <title>Anti-Racist Science</title>
+      <link>https://AntiRacistScience.github.io/</link>
+    </image>
+    
+  </channel>
+</rss>
